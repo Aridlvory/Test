@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Mech Notes]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>Mech Notes</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sat, 20 Jul 2024 10:53:16 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sat, 20 Jul 2024 10:53:14 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[MODULE I]]></title><description><![CDATA[ 
+ <br><br>
+<br>Introduction, Social, environmental and economic sustainability concepts.
+<br>Technology and Sustainable development.
+<br>Millennium Development Goals (MDGs) and Sustainable Development Goals (SDGs)
+<br>Clean Development Mechanism (CDM).
+<br><br>
+<br>Basic concepts of Conventional and non-conventional energy,
+<br>Solar energy, Wind energy,
+<br>Fuel cells.
+<br>Small hydro plants, and biofuels
+<br>Energy derived from oceans and Geothermal energy.
+<br><br>
+<br>ISO 14001:2015 framework and benefits.
+<br>Scope and Goal of Life Cycle Analysis (LCA),
+<br>Circular economy, Bio-mimicking.
+<br>Environment Impact Assessment (EIA),
+<br>Industrial Ecology, Industrial Symbiosis.
+<br><br>
+<br>Design for Sustainability:- Design for high energy efficiency,
+<br>Resource conservation, durability,
+<br>Easier manufacturing, better service, re-use, recycle &amp; re- manufacture,
+<br>Safe disposal and design using low impact materials
+<br><br>
+<br>Technologies and systems with energy conservations and minimum energy consumption,
+<br>Emission control systems,
+<br>Sustainability in material selection and utilization.
+<br>Case studies in automotive industry, product design.
+<br><br>
+<br>R. L. Rag and Lekshmi Dinachandran Remesh. Introduction to Sustainable Engineering. 2nd Edition, PHI Learning Pvt. Ltd., 2016
+<br><br>
+<br>Andy Jones, Michel Pimbert and Janice Jiggins, 2011. Virtuous Circles: Values, Systems, Sustainability. IIED and IUCN CEESP, London.
+<br>D. T. Allen and D. R. Shonnard. Sustainability Engineering: Concepts, Designand Case Studies, 1st Edition, Prentice Hall, 2011.
+<br>A.S. Bradley, A. O. Adebayo, P.Maria. Engineering applications in sustainable design and development, 1st Edition, Cengage learning, 2016
+]]></description><link>s3\syllabus\23est302-sustainable-engineering.html</link><guid isPermaLink="false">S3/Syllabus/23EST302 - Sustainable Engineering.md</guid><pubDate>Thu, 18 Jul 2024 14:00:49 GMT</pubDate></item><item><title><![CDATA[Module 1 (6 Hours)]]></title><description><![CDATA[ 
+ <br><br>
+<br>Introduction to Mechanics – Mechanics of Rigid Bodies (EMS), Mechanics of deformable Bodies (MoS) and Mechanics of fluids (FM). Relevance of Engineering Mechanics, introduction to studies of bodies at rest (Statics) and studies of bodies in motion (Dynamics). Rigid bodies, Principle of transmissibility of forces, Principle of superposition, law of action and reaction.
+<br>Free body diagrams (FBDs) – concept and examples, Exercise problems on drawing FBDs.
+<br>Resolution of forces – rectangular components. Resultant of two forces - Parallelogram law.
+<br>System of coplanar forces – concurrent and non- concurrent forces. Resultant force of a system of concurrent coplanar forces – method of projections.
+<br>Teacher assisted problem solving on resultant of system of concurrent coplanar forces.
+<br>Equilibrium – equations for a body subjected to a system of concurrent coplanar forces. Equilibrant.
+<br><br>
+<br>Moment of a force, Varignon’s Theorem of moments. Parallel coplanar forces – couple.
+<br>Resultant of non-concurrent coplanar forces
+<br>Equilibrium of bodies subjected to general coplanar force system - equlibrium equations.
+<br>Introduction to Friction – sliding friction - Coulomb’s laws of friction – analysis of single bodies. Ladder friction
+<br>Teacher assisted problem solving
+<br><br>
+<br>Centroid – Concept, Centroid of simple and regular geometrical shapes – Rectangle, right angled triangle, circle, semi-circle.
+<br>Location of centroids using principle of moments. Centroid of composite areas- examples for illustration – problems
+<br>Moment of inertia-Concept, Moment of inertia of simple figures using integration. Parallel axis theorem – Demonstration. Perpendicular axis theorem – polar moment of inertia. Radius of gyration.
+<br>Beams- Types, Support conditions, Loads on beams- Concentrated and UDL. Simple beam subject to concentrated vertical loads and UDL- support reactions.
+<br>Teacher assisted problem solving.
+<br><br>
+<br>Mass moment of inertia – ring, disc, cylinder (concept and equation). Introduction to dynamics – kinematics and kinetics. Newtons Laws – review.
+<br>D’Alembert’s principle - Illustration of the concepts using one numerical exercise from motion on horizontal and inclined surfaces
+<br>Motion of connected bodies – problems.
+<br>Teacher assisted problem solving.
+<br><br>
+<br>Concepts of impulse momentum equation and work energy equation. Curvilinear translation – Review of Kinematics.
+<br>Curvilinear translation – Kinetics – equations.
+<br>Rotation – kinematics and kinetics of rotation- equation of motion for a rigid body rotating about a fixed axis, motion of cylinder/disc – rolling without slip. Plane motion of rigid body – instantaneous centre of rotation (concept only).
+<br>Teacher assisted problem solving.
+<br><br>
+<br>Timoshenko and Young, Engineering Mechanics, McGraw Hill Publishers.
+<br>Shames, I. H., Engineering Mechanics - Statics and Dynamics, Prentice Hall of India.
+<br>R. C. Hibbeler and Ashok Gupta, Engineering Mechanics, Vol. I statics, Vol II Dynamics, Pearson Education.
+<br><br>
+<br>Merriam J. L and Kraige L. G., Engineering Mechanics - Vols. 1 and 2, John Wiley.
+<br>Tayal A K, Engineering Mechanics – Statics and Dynamics, Umesh Publications.
+<br>Bhavikkatti, S.S., Engineering Mechanics, New Age International Publishers
+<br>F.P.Beer abd E.R.Johnston (2011), Vector Mechanics for Engineers, Vol.I-Statics, Vol.II-Dynamics, 9th Ed, Tata McGraw Hill
+<br>Rajasekaran S and Sankarasubramanian G, Engineering Mechanics - Statics and Dynamics, Vikas Publishing House Pvt Ltd.
+]]></description><link>s3\syllabus\23est309-basic-engineering-mechanics.html</link><guid isPermaLink="false">S3/Syllabus/23EST309 - BASIC ENGINEERING MECHANICS.md</guid><pubDate>Thu, 18 Jul 2024 15:47:01 GMT</pubDate></item><item><title><![CDATA[MODULE 1 (8 Hours)]]></title><description><![CDATA[ 
+ <br><br>
+<br>Engineering and economics- Definition and scope of engineering economics-Basic concepts in economics
+<br>Scarcity and choice-Production possibility curve-Firm and its objectives.
+<br>Types of firm-Utility- Law of diminishing marginal utility
+<br>Demand and its determinants- Law of demand
+<br>Elasticity of demand-measurement of elasticity and its applications
+<br>Supply-Law of supply and its determinants
+<br>Equilibrium- changes in demand and supply and its effects.
+<br>Consumer surplus and producer surplus- Taxation and deadweight loss.
+<br><br>
+<br>Production function- Law of variable proportion
+<br>Economies of scale- internal and external economies
+<br>Cost concepts-social cost-private cost and external cost - Explicit and Implicit cost sunk cost.
+<br>Short run and long run cost curves- cost function
+<br>Revenue concepts-shut down point
+<br>Break even analysis
+<br>Break even analysis - problems
+<br><br>
+<br>Business forecasting-Introduction
+<br>Elementary techniques in business forecasting-Survey techniques-Expert opinion-Least square method.
+<br>Social responsibility of private business
+<br>Business financing –sources of capital-Capital and money markets
+<br>International financing- FDI-FPI-FII
+<br>Basic principles of taxation-direct tax-indirect tax-GST-tax evasion.
+<br><br>
+<br>Indian economy brief overview of Post-independence period - Plans
+<br>Post reform growth, structure of productive activity-issues of inclusion.
+<br>Circular flow of income-two sector and multi sector model
+<br>National income- Three sectors of an economy
+<br>Methods of measuring national income-Problems
+<br>Inflation-causes and effects- measures to control inflation - monetary methods.
+<br>Credit control methods-SLR- CRR-Open market operation-Repo and reverse repo – fiscal policies.
+<br><br>
+<br>Economics and the Environment- Environment and development-basic issues
+<br>The cost of economic growth and environmental degradation.
+<br>Sustainable policy approach-Population growth and environmental linkages-policy measures.
+<br>International trade- balance of payment-components
+<br>Balance of payments deficit and devaluation
+<br>India’s external debt- measures to reduce external debt
+<br>Developing country borrowing and debt-Capital inflow to developing countries-The problem of default.
+<br><br>
+<br>Gregory Mankiw, Principles of Micro Economics, Cengage Publications
+<br>Varshney and Maheshwari, Managerial Economics,Sultan Chand, New Delhi.
+<br>Geetika, Piyali Ghosh and Chodhury, Managerial Economics, Tata McGraw Hill.
+<br>Dwivedi D N, Macro Economics, McGraw Hill Education (India) Education Private Limited.
+<br>Francis Cherunilam, International Economics, McGraw Hill Education (India) Private Limited.
+<br>Misra. S.K and Puri G, Indian Economy, Himalaya Publishing House.
+<br>Michael. P. Todaro, Economic Development, Pearson Education.
+<br><br>
+<br>Mithani D M, Managerial Economics, Himalaya Publishing House.
+<br>M C Vaish and Sudama Singh, International Economics, Oxford and IBH Publishing Co Private Limited.
+<br>A. Ramachandran Aryasi, Managerial Economics and Financial Analysis, Tata McGraw Hill
+<br>T.N. Hajela, Money, Banking and Public Finance, Anne Books, New Delhi
+<br>Datt &amp; Sundharam, Indian Economy, S.Chand Publishing House.
+]]></description><link>s3\syllabus\23hut306-humanities-–-i-engineering-economics.html</link><guid isPermaLink="false">S3/Syllabus/23HUT306 - HUMANITIES – I ENGINEERING ECONOMICS.md</guid><pubDate>Thu, 18 Jul 2024 15:20:12 GMT</pubDate></item><item><title><![CDATA[MODULE I: Discrete Probability Distributions (9 Hours)]]></title><description><![CDATA[ 
+ <br><br>(Text-1: Relevant topics from sections 3.1-3.4, 3.6, 5.1)<br>
+<br>Discrete random variables and their probability distributions 
+<br>Discrete random variables and their probability distributions (continued) 
+<br>Expectation, mean and variance 
+<br>Binomial distribution-mean and variance 
+<br>Problems on Binomial distribution 
+<br>Problems on Binomial distribution (continued) 
+<br>Poisson distribution- Poisson approximation to binomial 
+<br>Poisson distribution- mean and variance 
+<br>Problems on Poisson distribution
+<br><br>(Text-1: Relevant topics from sections 4.1-4.4, 3.6)<br>
+<br>Continuous random variables and their probability distributions 
+<br>Continuous random variables and their probability distributions(continued) 
+<br>Expectation, mean and variance 
+<br>Expectation, mean and variance(continued) 
+<br>Uniform distribution – derivation of mean and variance 
+<br>Problems on Uniform distribution 
+<br>Normal distribution 
+<br>Problems on Normal distribution 
+<br>Problems on Normal distribution (continued)
+<br><br>(Text-1: Relevant topics from sections 5.4, 3.6, 5.1,7.2, 8.1, 8.3, 9.1-9.2,9.4)<br>
+<br>Population and samples, Sampling distribution of the mean and proportion (for large samples only)
+<br>Confidence interval for single mean 
+<br>Confidence interval for single proportion 
+<br>Test of Hypotheses: Large sample test for single mean 
+<br>Large sample test for single proportion 
+<br>Large sample test for equality of means 
+<br>Small sample tests for single mean of normal population 
+<br>Small sample t-tests for equality of means 
+<br>Small sample t-tests for equality of means (continued)
+<br><br>(Text 2: Relevant portions of sections 13.3,13.4)<br>
+<br>Circles and disks, half planes, Complex functions 
+<br>Limit and continuity of complex functions 
+<br>Derivatives of complex functions 
+<br>Analytic functions 
+<br>Cauchy-Riemann equations 
+<br>Cauchy-Riemann equations(continued) 
+<br>Harmonic functions 
+<br>Finding harmonic conjugate 
+<br>Finding harmonic conjugate(continued)
+<br><br>(Text 2- Relevant topics from sections 14.1,14.2,14.3,14.4,15.4,16.1,16.2,16.3)<br>
+<br>Cauchy’s integral theorem (without proof) on simply connected domain
+<br>Cauchy’s Integral formula (without proof)
+<br>Cauchy’s Integral formula for derivatives of analytic functions
+<br>Taylor’s series and Maclaurin series
+<br>Laurent series
+<br>Poles and Residues
+<br>Evaluation of residues
+<br>Evaluation of residues (continued)
+<br>Cauchy's residue theorem
+<br><br>
+<br><a data-tooltip-position="top" aria-label="https://drive.google.com/file/d/1nak1z85jiAPjvvLIl_bbVR58KhBV2pko/view?usp=sharing" rel="noopener" class="external-link" href="https://drive.google.com/file/d/1nak1z85jiAPjvvLIl_bbVR58KhBV2pko/view?usp=sharing" target="_blank">Jay L. Devore, Probability and Statistics for Engineering and the Sciences, 8th edition, Cengage, 2012.</a>
+<br><a data-tooltip-position="top" aria-label="https://drive.google.com/file/d/1ugsPPFvEaDZ4gm7RehSbhRhbsnc6QBxK/view?usp=sharing" rel="noopener" class="external-link" href="https://drive.google.com/file/d/1ugsPPFvEaDZ4gm7RehSbhRhbsnc6QBxK/view?usp=sharing" target="_blank">Erwin Kreyszig, Advanced Engineering Mathematics, 10thEdition, John Wiley &amp; Sons, 2016.</a>
+<br><br>
+<br>Peter V. O'Neil, Advanced Engineering Mathematics, Cengage, 7th Edition, 2012
+<br>Hossein Pishro-Nik, Introduction to Probability, Statistics and Random<br>
+Processes, Kappa Research, 2014
+<br>Sheldon M. Ross, Introduction to probability and statistics for engineers and<br>
+scientists, 4th edition, Elsevier, 2009.
+<br>T. Veera Rajan, Probability, Statistics and Random processes, Tata McGraw-<br>
+Hill, 2008
+<br>Prof. Pranav Haridas, Complex Analysis, Kerala School of Mathematics,<br>
+<a data-tooltip-position="top" aria-label="https://nptel.ac.in/courses/111106141" rel="noopener" class="external-link" href="https://nptel.ac.in/courses/111106141" target="_blank">NPTEL</a> (Relevant sections)
+]]></description><link>s3\syllabus\23mat301-probability-distributions-and-complex-analysis.html</link><guid isPermaLink="false">S3/Syllabus/23MAT301 - PROBABILITY DISTRIBUTIONS AND COMPLEX ANALYSIS.md</guid><pubDate>Sat, 20 Jul 2024 09:17:33 GMT</pubDate></item><item><title><![CDATA[MODULE I (7 hours)]]></title><description><![CDATA[ 
+ <br><br>
+<br>Metals, polymers, ceramics and composites; Relevant properties (physical, mechanical, thermal, electrical, chemical)
+<br>Cost; Range of applications;
+<br>Mechanical properties &amp; Testing: Young’s modulus; Tensile Testing,
+<br>Yielding and yield strength; ductility, resilience, toughness
+<br>Compression test, Fatigue Test, SN curve, endurance limits
+<br>Atomic bonding – types, Crystallography, BC, BCC, FCC unit cells
+<br>APF &amp; Theoretical Density calculations, Miller indices,
+<br>Crystalline defects – brief review Self-Study
+<br><br>
+<br>Metals &amp; Alloys: Iron and steel alloys; Stainless steel;
+<br>Aluminum Alloys; Titanium alloys
+<br>Phase diagrams: Lever rule, simple problems, Iron Iron-carbide phase diagram
+<br>Development of microstructure in iron-carbon alloys, Invariant Reactions, Pearlite, Bainite, Martensite
+<br>Phase transformation, Isothermal transformation diagram, TTT and CCT diagrams, applications
+<br><br>
+<br>Heat treatment of steel: Annealing, normalizing,
+<br>Tempering, Austempering, Martempering
+<br>Case hardening: Carburizing, nitriding, cyaniding, carbo-nitriding
+<br>Flame and induction hardening, vacuum and plasma hardening
+<br><br>
+<br>Polymers – Classification and applications; Polymerization techniques
+<br>Ceramics – Classifications and applications
+<br>Bio-ceramics and Glasses; Self-Study
+<br>Composites – Reinforcement, matrix, metal matrix composites, ceramic matrix composites, polymer composites
+<br>Other advanced materials – biomaterials
+<br>Optical materials Self-Study
+<br><br>
+<br>Conducting and resisting materials – types, properties and applications;
+<br>Semiconducting materials – properties and applications Self-Study
+<br>Magnetic materials – Soft and hard magnetic materials and applications;
+<br>Smart materials; Sensors and actuators; 
+<br>Piezoelectric materials Self-Study
+<br>Magnetostrictive and electro strictive materials.
+<br><br>
+<br>William F Smith, Javad Hashemi, Ravi Prakash, Materials Science and Engineering, 5e, McGraw Hill Education, 2017
+<br>Raghavan V, Material Science and Engineering: A First Course, Prentice Hall India Learning Private Limited, 6e, 2015
+<br>Avner H Sidney, Introduction to Physical Metallurgy, 2e, McGraw Hill Education, 2017
+<br>Singh I P, Subhask Chander, Rajesh K Prasad, Materials Science and Engineering, 13e, Jain Brothers, 2018.
+<br>Michael F Ashby, David R.H. Jones, Engineering Materials 1: An Introduction to Properties, Application and Design, 4e, Butterworth- Heinemann publishers, 2011
+<br>Kenneth G Budinski, Michael K Budinski, Engineering Materials – Properties and Selection, 9e, Pearson Publishers, 2009
+]]></description><link>s3\syllabus\23mej303-engineering-materials-&amp;-applications.html</link><guid isPermaLink="false">S3/Syllabus/23MEJ303 - Engineering Materials &amp; Applications.md</guid><pubDate>Thu, 18 Jul 2024 14:33:27 GMT</pubDate></item><item><title><![CDATA[MODULE 1 (10 Hours)]]></title><description><![CDATA[ 
+ <br><br>
+<br>Deformation behaviour of elastic solids in equilibrium under the action of a system of forces, method of sections.
+<br>Stress vectors on Cartesian coordinate planes passing through a point, stress at a point in the form of a matrix.
+<br>Equality of cross shear, Cauchy's equation.
+<br>Displacement, Cartesian strain matrix, strain- displacement relations (small-strain only),
+<br>Simple problems to find strain matrix.
+<br>Tutorial Session
+<br>Principal planes and principal stress, meaning of stress invariants, maximum shear stress
+<br>Mohr’s circle construction
+<br>Problems for 2D case using Mohr circle
+<br><br>
+<br>Stress–Strain curves of Ductile and Brittle Materials, Poisson’s ratio.
+<br>Constitutive equations-generalized Hooke’s law,
+<br>Equations for linear elastic isotropic solids in terms of Young’s Modulus and Poisson’s ratio,
+<br>Hooke’s law for Plane stress and plane strain conditions Relations between elastic constants E, G, ν and K.
+<br>Calculation of stress and strain in axially loaded members
+<br>Calculation of deformation in axially loaded members
+<br>Thermal stress and thermal strain.
+<br>Tutorial Problems from thermal stresses and strains
+<br><br>
+<br>Torsional deformation of circular shafts
+<br>Assumptions for shafts subjected to torsion within elastic deformation range
+<br>Torsional rigidity, Polar moment of inertia
+<br>Basic design of transmission shafts.
+<br>Simple problems to estimate the stress in solid and hollow shafts.
+<br>Shear force and bending moment diagrams for cantilever
+<br>Tutorial problems based on loading of cantilever.
+<br>Shear force and bending moment diagrams for simply supported beams.
+<br>Shear force and bending moment diagrams for simply supported beams.
+<br><br>
+<br>Normal and shear stress in beams: section modulus, flexural rigidity
+<br>Numerical problems to evaluate bending stress
+<br>Economic sections.
+<br>Shear stress formula for beams, shear stress distribution for a rectangular section.
+<br>Tutorial on shear stress distribution
+<br>Deflection of beams using Macauley’s method.
+<br>Tutorial problems to find deflection
+<br>Design of beams for a given loading
+<br>Elastic strain energy and Complementary strain energy.
+<br>Elastic strain energy for axial loading, transverse shear, bending and torsional loads.
+<br><br>
+<br>Fundamentals of buckling and stability, critical load
+<br>Equilibrium diagram for buckling of an idealized structure
+<br>Buckling of columns with pinned ends
+<br>Euler’s buckling theory for long columns.
+<br>Critical stress, slenderness ratio, Rankine’s formula for short columns.
+<br>Tutorial problems on column buckling
+<br>Stresses due to combined loads (axial, bending)
+<br>Stresses due to combined loads (torsion)
+<br>Practical problems involving combined loading - Case study report submission (Group work) 
+<br><br>
+<br>Rattan, Strength of Materials, 2e McGraw Hill Education India, 2011
+<br><br>
+<br>S. H. Crandal, N. C. Dhal, T. J. Lardner, An introduction to the Mechanics of Solids, McGraw Hill, 1999
+<br>R. C. Hibbeler, Mechanics of Materials, Pearson Education,2008
+<br>I.H. Shames, J. H. Pitarresi, Introduction to Solid Mechanics, Prentice Hall of India, 2006
+<br>James M. Gere, Stephen Timoshenko, Mechanics of Materials, CBS Publishers &amp; Distributors, New Delhi,2012
+<br>F. Beer, E. R. Johnston, J. T. DeWolf, Mechanics of Materials, Tata McGraw Hill, 2011
+<br>Pytel, F. L. Singer, Strength of Materials, Harper &amp; Row Publishers, New York,1998
+<br>E. P. Popov, T. A. Balan, Engineering Mechanics of Solids, Pearson Education, 2012
+<br>R. K. Bansal, Mechanics of solids, Laxmi Publications, 2004
+<br>P. N. Singh, P. K. Jha, Elementary Mechanics of Solids, Wiley Eastern Limited, 2012
+]]></description><link>s3\syllabus\23mem309-mechanics-of-materials.html</link><guid isPermaLink="false">S3/Syllabus/23MEM309 - Mechanics of Materials.md</guid><pubDate>Sat, 20 Jul 2024 06:29:24 GMT</pubDate></item><item><title><![CDATA[MODULE 1 [Fluid Properties and Fluid Statics] (10 Hours)]]></title><description><![CDATA[ 
+ <br><br>
+<br>Properties of Fluid: Introduction: Fluids and continuum
+<br>Physical properties of fluids, density, specific weight, vapour pressure
+<br>Newton’s law of viscosity. Ideal and real fluids, Newtonian and non-Newtonian fluids. Properties of Fluid (simple problems only).
+<br>Fluid Statics: Pascal’s Law, Hydrostatic law, pressure.
+<br>Pressure measurement using simple manometers, differential manometers. Simple problems
+<br><br>
+<br>Fluid Kinematics: Introduction, types of flow- steady and unsteady flow, uniform and nonuniform flow, compressible and Incompressible flow, rotational and irrotational flow (definition only).
+<br>streamline, streak line, path lines and stream tubes. Continuity equation, Simple Problems.
+<br>Momentum Equation: Euler's equation, Bernoulli’s equation (no derivation), hydraulic coefficients
+<br>venturi meter, orifcemeter, pitot tube (simple problems). Flow over triangular and rectangular notches (theory only), Pitot tube.
+<br><br>
+<br>Type of flow –Reynolds experiments, Reynolds number.
+<br>Laminar flow: Hagen-Poiseuille equation, laminar flow through circular pipes.
+<br>Turbulent flow Frictional losses in pipe flow-Darcy’s and Chezy’s equation, major and minor losses. Boundary layer concept (Theory only).
+<br>Darcy’s and Chezy’s equation (simple problems)
+<br>Major and minor losses in pipe flow-Problems Boundary layer concept (Theory only)
+<br><br>
+<br>Introduction of rotodynamic machines, Classification of turbines – Working principles.
+<br>Pelton wheel and Francis turbine – Work done, Efficiencies, specific speed.
+<br>Pelton wheel and Francis turbine – Work done, Efficiencies, specific speed. (Problems) 
+<br><br>
+<br>Classification of pumps – Centrifugal pumps, reciprocating pump, deep well, pump, submersible pump, Gear pump, vane pump
+<br>Working principle. Performance of centrifugal pump-head, efficiency, workdone
+<br>Characteristics curves of centrifugal pumps. Water hammer, Cavitation, NPSH. 
+<br><br>
+<br>R. K. Bansal, “A Textbook of Fluid Mechanics and Hydraulic Machines,” Laxmi Publication, 2005.
+<br>Modi P.N. and S.M. Seth, Hydraulics and fluid mechanics, S.B.H publishers, New Delhi, 2002 
+<br>White, F.M. ,” Fluid mechanics,” McGraw Hill Education, (India) Pvt. Ltd. New Delhi, 8th Edition 2017
+<br>Cengel, Y.A.,Cimbala, John,M., “Fluid mechanics, Fundamentals and applications” Tata McGraw Hill Publications, 7th Edition, New Delhi, 2009
+<br><br>
+<br>Shames, I.H, “Mechanics of fluids", Tata McGraw Hill Publications, 1986
+<br>J.F.Douglas “Fluid Mechanics”, Pearson educatio
+<br>Shepherd,D.G.,”Principles of Turbo machinery”, Mcmillan company, Newyoek, 1956
+<br>Jagadish lal,:Hydrulic Mchines”, Metropolitan book company pvt. Ltd., New Delhi, 6th Edition 
+]]></description><link>s3\syllabus\23mem310-fluid-mechanics-&amp;-machinery.html</link><guid isPermaLink="false">S3/Syllabus/23MEM310 - Fluid Mechanics &amp; Machinery.md</guid><pubDate>Sat, 20 Jul 2024 07:14:17 GMT</pubDate></item><item><title><![CDATA[MODULE 1 (11 hours)]]></title><description><![CDATA[ 
+ <br><br>
+<br>Classification of Engineering Materials
+<br>Earlier and present development of atomic structure – Earlier and present development in primary bonding
+<br>Ionic, covalent and Metallic bonding, its properties
+<br>Secondary bonds – van der walls bonding
+<br>Crystallography, Unit cells, SC, BCC, FCC and HCP unit cells
+<br>Calculation of no of atoms per unit cell, Calculations of theoretical density
+<br>Miller Indices - Calculations
+<br><br>
+<br>Crystal imperfections, its classification and examples,
+<br>Solid Solutions, Phase diagrams,
+<br>Lever rule, simple problems, Iron Iron-carbide phase diagram
+<br>Development of microstructure in iron-carbon alloys,
+<br>Invariant Reactions; Phase transformation
+<br>Isothermal transformation diagram, TTT and CCT diagrams, applications.
+<br><br>
+<br>Modes of plastic deformation
+<br>Strengthening mechanisms
+<br>Types of fracture, brittle and ductile fracture
+<br>Fatigue, Stress cycles, fatigue tests, S-N Curve
+<br>Ductile to brittle transition temperature (DBTT) in steels
+<br>Creep: Creep curves, creep tests
+<br><br>
+<br>Composite materials, fiber and matrix phases, its functions
+<br>Rule of mixtures, density and stiffness calculations,
+<br>Polymer matrix composites
+<br>Metal matrix composites and ceramic matrix composites
+<br>Dielectric materials, conductors, resistor materials
+<br><br>
+<br>Superconducting phenomenon, properties and applications
+<br>Semiconductor materials, properties and applications
+<br>Fabrication of integrated circuits,
+<br>semiconductors devices 
+<br><br>
+<br>William D Callister Jr, David G Rethwisch, Materials Science and Engineering: An Introduction, 10e, John Wiley &amp; Sons, Inc., 2018
+<br>Donald R Askeland, Pradeeep P Fulay, Essentials of Materials Science and Engineering, 2e, Cengage Learning Publications, 2013
+<br><br>
+<br>William F Smith, Javad Hashemi, Ravi Prakash, Materials Science and Engineering, 5e, McGraw Hill Education, 2017
+<br>Raghavan V, Material Science and Engineering: A First Course, Prentice Hall India Learning Private Limited, 6e, 2015
+<br>Avner H Sidney, Introduction to Physical Metallurgy, 2e, McGraw Hill Education, 2017
+<br>Singh I P, Subhask Chander, Rajesh K Prasad, Materials Science and Engineering, 13e, Jain Brothers, 2018.
+<br>Michael F Ashby, David R.H. Jones, Engineering Materials 1: An Introduction to Properties, Application and Design, 4e, Butterworth-Heinemann publishers, 2011
+<br>Kenneth G Budinski, Michael K Budinski, Engineering Materials – Properties and Selection, 9e, Pearson Publishers, 2009 
+]]></description><link>s3\syllabus\23mem311-material-science-and-technology.html</link><guid isPermaLink="false">S3/Syllabus/23MEM311 - Material Science and Technology.md</guid><pubDate>Sat, 20 Jul 2024 06:49:22 GMT</pubDate></item><item><title><![CDATA[MODULE 1]]></title><description><![CDATA[ 
+ <br><br>
+<br>Introduction to Industrial Engineering - Evolution of modern Concepts in Industrial Engineering
+<br>Functions of Industrial Engineering - Field of application of Industrial Engineering
+<br>Manufacturing vs purchase
+<br>Economic aspects- C-V-P analysis
+<br>Simple problems
+<br>Value engineering
+<br><br>
+<br>Definition, Nature and importance, Management Functions, Management and Administration
+<br>Functional Areas of Management, Levels of Management, Roles of a Manager
+<br>Managerial Skills- Motivation, Leadership and Communication
+<br>Organisation-Types of Organization structures – Line Organization, Line and Staff
+<br>Functional, Project, Matrix, Virtual and Informal Organization
+<br><br>
+<br>Plant layout - Process, Product, Fixed and Combination 
+<br>Material handling- principles of material handling, Types of material handling equipments, Selection and application
+<br>Preventive and break- down maintenance
+<br>Replacement policy-- Methods of replacement analysis
+<br>Method of providing for depreciation
+<br>Determination of economic life - Simple problems.
+<br><br>
+<br>Methods engineering: Analysis of work methods using different types of process chart and flow diagrams – Critical examination
+<br>Micro motion study and therbligs- Principles of motion economy
+<br>Work measurement-Performance rating –Determination of allowances and standard time (simple problems)
+<br>Industrial relations- Psychological attitudes to work and working conditions
+<br>Fatigue- Methods of eliminating fatigue- Effect of Communication in Industry
+<br>Causes and effects of industrial disputes- Collective bargaining.
+<br>Industrial safety-personal protective devices 
+<br><br>
+<br>Production planning and control- Importance of planning - job, batch and mass production
+<br>Introduction and need for a new product-product life cycle.
+<br>Functions of production control - Routing , Scheduling, dispatching and follow up- Gantt charts.
+<br>Inventory Control, Inventory models
+<br>Determination of EOQ and reorder level (simple problems)
+<br>Selective inventory control techniques.
+<br><br>
+<br>B. Kumar, Industrial Engineering Khanna Publishers,2013
+<br>M Mahajan, Industrial Engineering &amp; Production Management, Dhanpat Rai, 2005
+<br>Martand Telsang, Industrial Engineering &amp; Production Management, S. Chand, 2006
+<br>O. P. Khanna, Industrial Engineering and Management, Dhanpat Rai, 2010
+<br><br>
+<br>E. S. Buffa, Modern Production management, John Wiley, 1983
+<br>Grant and Ieven Worth, Statistical Quality Control, McGraw Hill, 2000
+<br>Introduction to work study – ILO, Oxford and IBH Publishing,2008
+<br>Ralph M Barnes, Motion and Time Study, Wiley, 1980
+]]></description><link>s3\syllabus\23mem312-industrial-engineering-and-management.html</link><guid isPermaLink="false">S3/Syllabus/23MEM312 - Industrial Engineering and  Management.md</guid><pubDate>Sat, 20 Jul 2024 07:03:55 GMT</pubDate></item><item><title><![CDATA[MODULE 1 (7 Hours)]]></title><description><![CDATA[ 
+ <br><br>
+<br>Properties of Fluid: Definition of fluid, properties of fluids-density, specific weight, viscosity- Newton’s law of viscosity, vapor pressure.
+<br>Physical properties of fluids -Problems
+<br>Pascal’s Law, Hydrostatic law. Pressure and its measurement using manometers. (Problems)
+<br>Dimensional Analysis: Dimensionally homogeneous equations; Buckingham Pi Theorem; Calculation of dimensionless parameters.
+<br>Buckingham Pi Theorem; Calculation of dimensionless parameters -Problems 1
+<br>Similarity- geometric similarity, dynamic similarity, kinematic similarity, model testing, model laws, undistorted and distorted models.
+<br>Similarity-problems
+<br><br>
+<br>Fluid Kinematics: Kinematics of fluid flow: Eulerian and Larangian approaches, classification of fluid flow, steady, unsteady.
+<br>Uniform, non-uniform, laminar, turbulent, rotational, irrotational flows, streamlines, path lines, streak lines, stream tubes,
+<br>Velocity and acceleration in fluid, circulation and vorticity, stream function and potential function.
+<br>Velocity and acceleration in fluid, circulation and vorticity, stream function and potential function.-Problems
+<br>Momentum Equation: Euler's equation, Bernoulli's equation, hydraulic coefficients, venturi meter.
+<br>Hydraulic coefficients, venturimeter. orificemeter, Pitot tube- Problems
+<br>Orifice meter, flow over triangular and rectangular notches (description only), pitot tube, water meter (construction and working) (Detailed study of flow measuring devices to be handled in the Laboratory)
+<br><br>
+<br>Laminar and Turbulent Flow: Type of flow – Reynolds experiments, (lab Class -Practical.) Reynolds number.
+<br>Hagen-Poiseuille equation, laminar flow through circular pipes.
+<br>Hagen-Poiseuille equation, laminar flow through circular pipes. - Problems
+<br>Turbulent flow Frictional losses in pipe flow-Darcy’s and Chezy’s equation,
+<br>Major and minor losses-Problems
+<br>Darcy’s and Chezy’s equation. Problems)
+<br>Boundary layer concept (Theory only)
+<br><br>
+<br>Impact of jets-Theory of rotodynamic machines-Computation of force exerted on a stationary vertical flat plate.
+<br>Computation of force exerted on a stationary vertical flat plate. 1
+<br>Force exerted and efficiency on a moving curved plate (no derivation)
+<br>Force exerted and efficiency on a moving curved plate-Problems 1
+<br>Hydraulic Turbines: Classification of turbine-Pelton Wheel, Francis and Kaplan-working, (Detailed study of turbines to be handled in the Laboratory)
+<br>Velocity triangle, efficiencies and specific speed- Theory 1
+<br>Velocity triangle, efficiencies and specific speed -Problems 1
+<br>Selection and design of turbines. 1
+<br><br>
+<br>Hydraulic Pumps : Classification of pumps- centrifugal pump, (Detailed study of pumps to be handled in the Laboratory).
+<br>Velocity triangles-Problems 1
+<br>manometric head- work done and efficiency computation. 1
+<br>Cavitation in centrifugal pumps- Self Study, NPSH required and available.
+<br>Performance characteristics, specific Speed- Problems 1
+<br>Reciprocating pump – working principle. (Detailed study of reciprocating pump to be handled in the Laboratory).
+<br><br>
+<br>Fluid Mechanics and Hydraulic Machines by R.K. Bansal, Laxmi Prakashan
+<br>Fluid Mechanics and Hydraulic Machines by R.K. Rajput, S.Chand &amp; Co.
+<br>Fluid Mechanics and Fluid Power Engineering by D.S. Kumar, S. K. Kataria &amp; Sons
+<br><br>
+<br>Mechanics of fluids by Shames, I.H,Tata McGraw Hill Publications.
+<br>Fluid Mechanics by Frank.M. White, McGraw Hill Education.
+<br>Mechanics of Fluids by Shames, McGraw Hill Education.
+<br>Hydraulic Machines by Jagadish Lal, Metropolitan book company pvt. Ltd.
+]]></description><link>s3\syllabus\23mep304-fluid-mechanics-and-hydraulic-machines.html</link><guid isPermaLink="false">S3/Syllabus/23MEP304 - Fluid Mechanics And Hydraulic Machines.md</guid><pubDate>Thu, 18 Jul 2024 14:47:28 GMT</pubDate></item><item><title><![CDATA[MODULE 1 Review of Thermodynamics (9 Hours)]]></title><description><![CDATA[ 
+ <br><br>
+<br>Introduction and Review of Thermodynamics - Definition of Thermodynamics, First Law of Thermodynamics, Limitations of First Law of Thermodynamics and Introduction to, Second Law, Engineering Applications of Steady Flow Energy Equation
+<br>Performance analysis of vapor power cycle. - Introduction to Steam engineering., Rankine Cycle
+<br>Modified Rankine Cycle
+<br>Improvement in Rankine cycles - Reheat Cycle, Regenerative Cycle (Self Study)
+<br>Binary Vapor Cycle
+<br>Performance analysis of Gas power cycles: Brayton cycle: Intercooling
+<br>Reheat cycle, Regenerative cycle (self-study)
+<br>Performance analysis of Air standard cycle - Constant Volume or Otto Cycle (Air standard efficiency, No derivation}
+<br>Constant Pressure or Diesel Cycle (Air standard efficiency, No derivation}, Actual IC engine cycle
+<br><br>
+<br>Flow of steam through nozzle - Important Terms Relating to Steam Formation, Properties of Steam
+<br>Thermodynamic Properties of Steam and Steam Tables
+<br>Steam turbines - Working Principle of a Steam Turbine, Classification of Steam Turbines
+<br>Impulse and reaction turbine, work done, efficiency , Condition for maximum efficiency (Self-study), stage efficiency (No derivation)
+<br>Steam turbine performance-reheat factor, degree of reaction. Governing of turbines. (Self-study).
+<br>Compounding of turbines-pressure velocity variation
+<br><br>
+<br>Single stage Reciprocating compressor - Classification of compressors. Reciprocating compressor-single stage compressor,
+<br>Equation for work with and without clearance volume, efficiencies (No derivations) Limitations of Single-Stage Compression
+<br>Multistage compressor - Intercooler. Free air delivered (FAD).
+<br>Multistage compressor with Intercooler.
+<br>Centrifugal compressor - Working, velocity diagram,
+<br>Work done, power required, isentropic efficiency, slip factor. Surging and chocking, Axial compressors.
+<br><br>
+<br>Compressible Flow - Introduction to compressible fluid flow.
+<br>Basic Equations of Compressible Fluid
+<br>Use of ideal gas tables for isentropic flow and normal shock flow
+<br>Compressible flow in diffusers. Efficiency of nozzle and diffuser
+<br>Types of flows - Stagnation properties. Isentropic flow of a perfect gas through a nozzle.
+<br>Choked flow, Subsonic and supersonic flows- normal shocks
+<br><br>
+<br>Introduction to solid, liquid, and gaseous fuels. Stoichiometry.
+<br>Combustion equations of solid and gaseous fuels.
+<br>Theoretical or minimum mass of air required for complete combustion,
+<br>Theoretical or minimum volume of air required for complete combustion,
+<br>Conversion of Volumetric analysis in to mass analysis or gravimetric analysis
+<br>Conversion of mass analysis in to Volumetric analysis
+<br>Determination of Mass of carbon in flue gases,
+<br>Determination of mass of flue gases per kg of fuel burnt.
+<br><br>
+<br><a data-tooltip-position="top" aria-label="https://drive.google.com/file/d/1iD1WBrHVLyfHod4G6pKVpo3fd0fM61d3/view?usp=sharing" rel="noopener" class="external-link" href="https://drive.google.com/file/d/1iD1WBrHVLyfHod4G6pKVpo3fd0fM61d3/view?usp=sharing" target="_blank">P. K. Nag, Engineering Thermodynamics, McGraw Hill, 2013</a>
+<br>E. Rathakrishnan Fundamentals of Engineering Thermodynamics, PHI, 2005
+<br>Y. A. Cengel and M. A. Boles, Thermodynamics an Engineering Approach, McGraw Hill, 2011
+<br>I.C. Engines / V. Ganesan / Mc Graw Hill
+<br>Thermal Engineering / Mahesh M Rathore / Mc Graw Hill
+<br><br>
+<br>Applied Thermodynamics for Engineering Technologists / Eastop / Pearson
+<br>Moran J., Shapiro N. M., Fundamentals of Engineering Thermodynamics, Wiley, 2006
+<br>R. E. Sonntag and C. Borgnakke, Fundamentals of Thermodynamics, Wiley, 2009
+<br>Holman J. P. Thermodynamics, McGraw Hill, 2004
+<br>M. Achuthan, Engineering Thermodynamics, PHI, 2004
+<br>Fundamentals of Classical Thermodynamics / Vanwylen G.J., Sonntag R.E. / Wiley Eastern
+<br>Internal Combustion Engines Fundamentals – John B. Heywood – McGraw Hill Ed.
+]]></description><link>s3\syllabus\23met305-applied-thermodynamics.html</link><guid isPermaLink="false">S3/Syllabus/23MET305 - APPLIED THERMODYNAMICS.md</guid><pubDate>Sat, 20 Jul 2024 09:43:46 GMT</pubDate></item><item><title><![CDATA[S3 Syllabus]]></title><description><![CDATA[ 
+ <br>]]></description><link>s3-syllabus.html</link><guid isPermaLink="false">S3 Syllabus.md</guid><pubDate>Sat, 20 Jul 2024 07:33:16 GMT</pubDate></item></channel></rss>
