@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Mech Notes]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>Mech Notes</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sat, 20 Jul 2024 10:53:16 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sat, 20 Jul 2024 10:53:14 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[MODULE I]]></title><description><![CDATA[ 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Mech Notes]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>Mech Notes</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sun, 21 Jul 2024 09:56:18 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sun, 21 Jul 2024 09:56:14 GMT</pubDate><copyright><![CDATA[Aridlvory]]></copyright><ttl>60</ttl><dc:creator>Aridlvory</dc:creator><item><title><![CDATA[Complex Numbers]]></title><description><![CDATA[ 
+ <br><br>A Complex number is denoted with , where ,  is called Real part of  and  is called Imaginary part of complex number. <br>The modulus of a complex number is given by The complex conjugate denoted by Polar form of a complex number is given by where, A circle in the complex plane with the center  and radius  is denoted by Similarly, is denoting an annular region<br>The Half Planes in the Complex planes are given by,<br><br><br>A Complex function  with Real part  and imaginary part  which can be separated by substituting  <br>Example, Here  &amp; .<br><br>A Function is said to have a limit  as  denoted as If  is defined in the neighborhood of  and  is close to  for all the -value close to <br>
+ is to be continuous at  if, <br>Note
+To check continuity substitute  and take  if 
+]]></description><link>s3\notes\probability-distributions-and-complex-analysis\module-iv-complex-differentiation.html</link><guid isPermaLink="false">S3/Notes/PROBABILITY DISTRIBUTIONS AND COMPLEX ANALYSIS/Module IV - Complex Differentiation.md</guid><dc:creator><![CDATA[Aridlvory]]></dc:creator><pubDate>Sat, 20 Jul 2024 13:45:15 GMT</pubDate></item><item><title><![CDATA[MODULE I]]></title><description><![CDATA[ 
  <br><br>
 <br>Introduction, Social, environmental and economic sustainability concepts.
 <br>Technology and Sustainable development.
@@ -32,7 +36,7 @@
 <br>Andy Jones, Michel Pimbert and Janice Jiggins, 2011. Virtuous Circles: Values, Systems, Sustainability. IIED and IUCN CEESP, London.
 <br>D. T. Allen and D. R. Shonnard. Sustainability Engineering: Concepts, Designand Case Studies, 1st Edition, Prentice Hall, 2011.
 <br>A.S. Bradley, A. O. Adebayo, P.Maria. Engineering applications in sustainable design and development, 1st Edition, Cengage learning, 2016
-]]></description><link>s3\syllabus\23est302-sustainable-engineering.html</link><guid isPermaLink="false">S3/Syllabus/23EST302 - Sustainable Engineering.md</guid><pubDate>Thu, 18 Jul 2024 14:00:49 GMT</pubDate></item><item><title><![CDATA[Module 1 (6 Hours)]]></title><description><![CDATA[ 
+]]></description><link>s3\syllabus\23est302-sustainable-engineering.html</link><guid isPermaLink="false">S3/Syllabus/23EST302 - Sustainable Engineering.md</guid><dc:creator><![CDATA[Aridlvory]]></dc:creator><pubDate>Sat, 20 Jul 2024 14:21:00 GMT</pubDate></item><item><title><![CDATA[Module 1 (6 Hours)]]></title><description><![CDATA[ 
  <br><br>
 <br>Introduction to Mechanics – Mechanics of Rigid Bodies (EMS), Mechanics of deformable Bodies (MoS) and Mechanics of fluids (FM). Relevance of Engineering Mechanics, introduction to studies of bodies at rest (Statics) and studies of bodies in motion (Dynamics). Rigid bodies, Principle of transmissibility of forces, Principle of superposition, law of action and reaction.
 <br>Free body diagrams (FBDs) – concept and examples, Exercise problems on drawing FBDs.
@@ -72,7 +76,7 @@
 <br>Bhavikkatti, S.S., Engineering Mechanics, New Age International Publishers
 <br>F.P.Beer abd E.R.Johnston (2011), Vector Mechanics for Engineers, Vol.I-Statics, Vol.II-Dynamics, 9th Ed, Tata McGraw Hill
 <br>Rajasekaran S and Sankarasubramanian G, Engineering Mechanics - Statics and Dynamics, Vikas Publishing House Pvt Ltd.
-]]></description><link>s3\syllabus\23est309-basic-engineering-mechanics.html</link><guid isPermaLink="false">S3/Syllabus/23EST309 - BASIC ENGINEERING MECHANICS.md</guid><pubDate>Thu, 18 Jul 2024 15:47:01 GMT</pubDate></item><item><title><![CDATA[MODULE 1 (8 Hours)]]></title><description><![CDATA[ 
+]]></description><link>s3\syllabus\23est309-basic-engineering-mechanics.html</link><guid isPermaLink="false">S3/Syllabus/23EST309 - BASIC ENGINEERING MECHANICS.md</guid><dc:creator><![CDATA[Aridlvory]]></dc:creator><pubDate>Thu, 18 Jul 2024 15:47:01 GMT</pubDate></item><item><title><![CDATA[MODULE 1 (8 Hours)]]></title><description><![CDATA[ 
  <br><br>
 <br>Engineering and economics- Definition and scope of engineering economics-Basic concepts in economics
 <br>Scarcity and choice-Production possibility curve-Firm and its objectives.
@@ -127,7 +131,7 @@
 <br>A. Ramachandran Aryasi, Managerial Economics and Financial Analysis, Tata McGraw Hill
 <br>T.N. Hajela, Money, Banking and Public Finance, Anne Books, New Delhi
 <br>Datt &amp; Sundharam, Indian Economy, S.Chand Publishing House.
-]]></description><link>s3\syllabus\23hut306-humanities-–-i-engineering-economics.html</link><guid isPermaLink="false">S3/Syllabus/23HUT306 - HUMANITIES – I ENGINEERING ECONOMICS.md</guid><pubDate>Thu, 18 Jul 2024 15:20:12 GMT</pubDate></item><item><title><![CDATA[MODULE I: Discrete Probability Distributions (9 Hours)]]></title><description><![CDATA[ 
+]]></description><link>s3\syllabus\23hut306-humanities-–-i-engineering-economics.html</link><guid isPermaLink="false">S3/Syllabus/23HUT306 - HUMANITIES – I ENGINEERING ECONOMICS.md</guid><dc:creator><![CDATA[Aridlvory]]></dc:creator><pubDate>Thu, 18 Jul 2024 15:20:12 GMT</pubDate></item><item><title><![CDATA[MODULE I: Discrete Probability Distributions (9 Hours)]]></title><description><![CDATA[ 
  <br><br>(Text-1: Relevant topics from sections 3.1-3.4, 3.6, 5.1)<br>
 <br>Discrete random variables and their probability distributions 
 <br>Discrete random variables and their probability distributions (continued) 
@@ -182,16 +186,12 @@
 <br><a data-tooltip-position="top" aria-label="https://drive.google.com/file/d/1nak1z85jiAPjvvLIl_bbVR58KhBV2pko/view?usp=sharing" rel="noopener" class="external-link" href="https://drive.google.com/file/d/1nak1z85jiAPjvvLIl_bbVR58KhBV2pko/view?usp=sharing" target="_blank">Jay L. Devore, Probability and Statistics for Engineering and the Sciences, 8th edition, Cengage, 2012.</a>
 <br><a data-tooltip-position="top" aria-label="https://drive.google.com/file/d/1ugsPPFvEaDZ4gm7RehSbhRhbsnc6QBxK/view?usp=sharing" rel="noopener" class="external-link" href="https://drive.google.com/file/d/1ugsPPFvEaDZ4gm7RehSbhRhbsnc6QBxK/view?usp=sharing" target="_blank">Erwin Kreyszig, Advanced Engineering Mathematics, 10thEdition, John Wiley &amp; Sons, 2016.</a>
 <br><br>
-<br>Peter V. O'Neil, Advanced Engineering Mathematics, Cengage, 7th Edition, 2012
-<br>Hossein Pishro-Nik, Introduction to Probability, Statistics and Random<br>
-Processes, Kappa Research, 2014
-<br>Sheldon M. Ross, Introduction to probability and statistics for engineers and<br>
-scientists, 4th edition, Elsevier, 2009.
-<br>T. Veera Rajan, Probability, Statistics and Random processes, Tata McGraw-<br>
-Hill, 2008
-<br>Prof. Pranav Haridas, Complex Analysis, Kerala School of Mathematics,<br>
-<a data-tooltip-position="top" aria-label="https://nptel.ac.in/courses/111106141" rel="noopener" class="external-link" href="https://nptel.ac.in/courses/111106141" target="_blank">NPTEL</a> (Relevant sections)
-]]></description><link>s3\syllabus\23mat301-probability-distributions-and-complex-analysis.html</link><guid isPermaLink="false">S3/Syllabus/23MAT301 - PROBABILITY DISTRIBUTIONS AND COMPLEX ANALYSIS.md</guid><pubDate>Sat, 20 Jul 2024 09:17:33 GMT</pubDate></item><item><title><![CDATA[MODULE I (7 hours)]]></title><description><![CDATA[ 
+<br><a data-tooltip-position="top" aria-label="https://drive.google.com/file/d/1StJJWF7mOBXnXt3X1nPj4DJuiDONH63R/view?usp=sharing" rel="noopener" class="external-link" href="https://drive.google.com/file/d/1StJJWF7mOBXnXt3X1nPj4DJuiDONH63R/view?usp=sharing" target="_blank">Peter V. O'Neil, Advanced Engineering Mathematics, Cengage, 7th Edition, 2012</a>
+<br><a data-tooltip-position="top" aria-label="https://drive.google.com/file/d/19eYkGPGQV3R2cPlOimtP0UKeZy42QrsH/view?usp=sharing" rel="noopener" class="external-link" href="https://drive.google.com/file/d/19eYkGPGQV3R2cPlOimtP0UKeZy42QrsH/view?usp=sharing" target="_blank">Hossein Pishro-Nik, Introduction to Probability, Statistics and Random Processes, Kappa Research, 2014</a>
+<br><a data-tooltip-position="top" aria-label="https://drive.google.com/file/d/1T5ifYF6ZAy7N31DbjoQtt--Cy55zRP1k/view?usp=sharing" rel="noopener" class="external-link" href="https://drive.google.com/file/d/1T5ifYF6ZAy7N31DbjoQtt--Cy55zRP1k/view?usp=sharing" target="_blank">Sheldon M. Ross, Introduction to probability and statistics for engineers and scientists, 4th edition, Elsevier, 2009.</a>
+<br><a data-tooltip-position="top" aria-label="https://drive.google.com/file/d/16EcZdQHomgY2m1WZmyAOIGVvpHMK709W/view?usp=sharing" rel="noopener" class="external-link" href="https://drive.google.com/file/d/16EcZdQHomgY2m1WZmyAOIGVvpHMK709W/view?usp=sharing" target="_blank">T. Veera Rajan, Probability, Statistics and Random processes, Tata McGraw- Hill, 2008</a>
+<br>Prof. Pranav Haridas, Complex Analysis, Kerala School of Mathematics, <a data-tooltip-position="top" aria-label="https://nptel.ac.in/courses/111106141" rel="noopener" class="external-link" href="https://nptel.ac.in/courses/111106141" target="_blank">NPTEL</a> (Relevant sections)
+]]></description><link>s3\syllabus\23mat301-probability-distributions-and-complex-analysis.html</link><guid isPermaLink="false">S3/Syllabus/23MAT301 - PROBABILITY DISTRIBUTIONS AND COMPLEX ANALYSIS.md</guid><dc:creator><![CDATA[Aridlvory]]></dc:creator><pubDate>Sat, 20 Jul 2024 14:17:24 GMT</pubDate></item><item><title><![CDATA[MODULE I (7 hours)]]></title><description><![CDATA[ 
  <br><br>
 <br>Metals, polymers, ceramics and composites; Relevant properties (physical, mechanical, thermal, electrical, chemical)
 <br>Cost; Range of applications;
@@ -233,7 +233,7 @@ Hill, 2008
 <br>Singh I P, Subhask Chander, Rajesh K Prasad, Materials Science and Engineering, 13e, Jain Brothers, 2018.
 <br>Michael F Ashby, David R.H. Jones, Engineering Materials 1: An Introduction to Properties, Application and Design, 4e, Butterworth- Heinemann publishers, 2011
 <br>Kenneth G Budinski, Michael K Budinski, Engineering Materials – Properties and Selection, 9e, Pearson Publishers, 2009
-]]></description><link>s3\syllabus\23mej303-engineering-materials-&amp;-applications.html</link><guid isPermaLink="false">S3/Syllabus/23MEJ303 - Engineering Materials &amp; Applications.md</guid><pubDate>Thu, 18 Jul 2024 14:33:27 GMT</pubDate></item><item><title><![CDATA[MODULE 1 (10 Hours)]]></title><description><![CDATA[ 
+]]></description><link>s3\syllabus\23mej303-engineering-materials-&amp;-applications.html</link><guid isPermaLink="false">S3/Syllabus/23MEJ303 - Engineering Materials &amp; Applications.md</guid><dc:creator><![CDATA[Aridlvory]]></dc:creator><pubDate>Thu, 18 Jul 2024 14:33:27 GMT</pubDate></item><item><title><![CDATA[MODULE 1 (10 Hours)]]></title><description><![CDATA[ 
  <br><br>
 <br>Deformation behaviour of elastic solids in equilibrium under the action of a system of forces, method of sections.
 <br>Stress vectors on Cartesian coordinate planes passing through a point, stress at a point in the form of a matrix.
@@ -296,7 +296,7 @@ Hill, 2008
 <br>E. P. Popov, T. A. Balan, Engineering Mechanics of Solids, Pearson Education, 2012
 <br>R. K. Bansal, Mechanics of solids, Laxmi Publications, 2004
 <br>P. N. Singh, P. K. Jha, Elementary Mechanics of Solids, Wiley Eastern Limited, 2012
-]]></description><link>s3\syllabus\23mem309-mechanics-of-materials.html</link><guid isPermaLink="false">S3/Syllabus/23MEM309 - Mechanics of Materials.md</guid><pubDate>Sat, 20 Jul 2024 06:29:24 GMT</pubDate></item><item><title><![CDATA[MODULE 1 [Fluid Properties and Fluid Statics] (10 Hours)]]></title><description><![CDATA[ 
+]]></description><link>s3\syllabus\23mem309-mechanics-of-materials.html</link><guid isPermaLink="false">S3/Syllabus/23MEM309 - Mechanics of Materials.md</guid><dc:creator><![CDATA[Aridlvory]]></dc:creator><pubDate>Sat, 20 Jul 2024 06:29:24 GMT</pubDate></item><item><title><![CDATA[MODULE 1 [Fluid Properties and Fluid Statics] (10 Hours)]]></title><description><![CDATA[ 
  <br><br>
 <br>Properties of Fluid: Introduction: Fluids and continuum
 <br>Physical properties of fluids, density, specific weight, vapour pressure
@@ -324,7 +324,7 @@ Hill, 2008
 <br>Characteristics curves of centrifugal pumps. Water hammer, Cavitation, NPSH. 
 <br><br>
 <br>R. K. Bansal, “A Textbook of Fluid Mechanics and Hydraulic Machines,” Laxmi Publication, 2005.
-<br>Modi P.N. and S.M. Seth, Hydraulics and fluid mechanics, S.B.H publishers, New Delhi, 2002 
+<br><a data-tooltip-position="top" aria-label="https://drive.google.com/file/d/14cDRDPF6BeVCCJZaJSB4CBAI7KkiTyLE/view?usp=sharing" rel="noopener" class="external-link" href="https://drive.google.com/file/d/14cDRDPF6BeVCCJZaJSB4CBAI7KkiTyLE/view?usp=sharing" target="_blank">Modi P.N. and S.M. Seth, Hydraulics and fluid mechanics, S.B.H publishers, New Delhi, 2002 </a>
 <br>White, F.M. ,” Fluid mechanics,” McGraw Hill Education, (India) Pvt. Ltd. New Delhi, 8th Edition 2017
 <br>Cengel, Y.A.,Cimbala, John,M., “Fluid mechanics, Fundamentals and applications” Tata McGraw Hill Publications, 7th Edition, New Delhi, 2009
 <br><br>
@@ -332,7 +332,7 @@ Hill, 2008
 <br>J.F.Douglas “Fluid Mechanics”, Pearson educatio
 <br>Shepherd,D.G.,”Principles of Turbo machinery”, Mcmillan company, Newyoek, 1956
 <br>Jagadish lal,:Hydrulic Mchines”, Metropolitan book company pvt. Ltd., New Delhi, 6th Edition 
-]]></description><link>s3\syllabus\23mem310-fluid-mechanics-&amp;-machinery.html</link><guid isPermaLink="false">S3/Syllabus/23MEM310 - Fluid Mechanics &amp; Machinery.md</guid><pubDate>Sat, 20 Jul 2024 07:14:17 GMT</pubDate></item><item><title><![CDATA[MODULE 1 (11 hours)]]></title><description><![CDATA[ 
+]]></description><link>s3\syllabus\23mem310-fluid-mechanics-&amp;-machinery.html</link><guid isPermaLink="false">S3/Syllabus/23MEM310 - Fluid Mechanics &amp; Machinery.md</guid><dc:creator><![CDATA[Aridlvory]]></dc:creator><pubDate>Sat, 20 Jul 2024 12:46:39 GMT</pubDate></item><item><title><![CDATA[MODULE 1 (11 hours)]]></title><description><![CDATA[ 
  <br><br>
 <br>Classification of Engineering Materials
 <br>Earlier and present development of atomic structure – Earlier and present development in primary bonding
@@ -367,8 +367,8 @@ Hill, 2008
 <br>Fabrication of integrated circuits,
 <br>semiconductors devices 
 <br><br>
-<br>William D Callister Jr, David G Rethwisch, Materials Science and Engineering: An Introduction, 10e, John Wiley &amp; Sons, Inc., 2018
-<br>Donald R Askeland, Pradeeep P Fulay, Essentials of Materials Science and Engineering, 2e, Cengage Learning Publications, 2013
+<br><a data-tooltip-position="top" aria-label="https://drive.google.com/file/d/1cZYcFG3CLoVtqfRZGGfHVEEO6s4B6tvg/view?usp=sharing" rel="noopener" class="external-link" href="https://drive.google.com/file/d/1cZYcFG3CLoVtqfRZGGfHVEEO6s4B6tvg/view?usp=sharing" target="_blank">William D Callister Jr, David G Rethwisch, Materials Science and Engineering: An Introduction, 10e, John Wiley &amp; Sons, Inc., 2018</a>
+<br><a data-tooltip-position="top" aria-label="https://drive.google.com/file/d/1jUyW92f4hi9CZk4f1IVgOqam_ZKczBaH/view?usp=sharing" rel="noopener" class="external-link" href="https://drive.google.com/file/d/1jUyW92f4hi9CZk4f1IVgOqam_ZKczBaH/view?usp=sharing" target="_blank">Donald R Askeland, Pradeeep P Fulay, Essentials of Materials Science and Engineering, 2e, Cengage Learning Publications, 2013</a>
 <br><br>
 <br>William F Smith, Javad Hashemi, Ravi Prakash, Materials Science and Engineering, 5e, McGraw Hill Education, 2017
 <br>Raghavan V, Material Science and Engineering: A First Course, Prentice Hall India Learning Private Limited, 6e, 2015
@@ -376,7 +376,7 @@ Hill, 2008
 <br>Singh I P, Subhask Chander, Rajesh K Prasad, Materials Science and Engineering, 13e, Jain Brothers, 2018.
 <br>Michael F Ashby, David R.H. Jones, Engineering Materials 1: An Introduction to Properties, Application and Design, 4e, Butterworth-Heinemann publishers, 2011
 <br>Kenneth G Budinski, Michael K Budinski, Engineering Materials – Properties and Selection, 9e, Pearson Publishers, 2009 
-]]></description><link>s3\syllabus\23mem311-material-science-and-technology.html</link><guid isPermaLink="false">S3/Syllabus/23MEM311 - Material Science and Technology.md</guid><pubDate>Sat, 20 Jul 2024 06:49:22 GMT</pubDate></item><item><title><![CDATA[MODULE 1]]></title><description><![CDATA[ 
+]]></description><link>s3\syllabus\23mem311-material-science-and-technology.html</link><guid isPermaLink="false">S3/Syllabus/23MEM311 - Material Science and Technology.md</guid><dc:creator><![CDATA[Aridlvory]]></dc:creator><pubDate>Sun, 21 Jul 2024 08:54:55 GMT</pubDate></item><item><title><![CDATA[MODULE 1]]></title><description><![CDATA[ 
  <br><br>
 <br>Introduction to Industrial Engineering - Evolution of modern Concepts in Industrial Engineering
 <br>Functions of Industrial Engineering - Field of application of Industrial Engineering
@@ -422,7 +422,7 @@ Hill, 2008
 <br>Grant and Ieven Worth, Statistical Quality Control, McGraw Hill, 2000
 <br>Introduction to work study – ILO, Oxford and IBH Publishing,2008
 <br>Ralph M Barnes, Motion and Time Study, Wiley, 1980
-]]></description><link>s3\syllabus\23mem312-industrial-engineering-and-management.html</link><guid isPermaLink="false">S3/Syllabus/23MEM312 - Industrial Engineering and  Management.md</guid><pubDate>Sat, 20 Jul 2024 07:03:55 GMT</pubDate></item><item><title><![CDATA[MODULE 1 (7 Hours)]]></title><description><![CDATA[ 
+]]></description><link>s3\syllabus\23mem312-industrial-engineering-and-management.html</link><guid isPermaLink="false">S3/Syllabus/23MEM312 - Industrial Engineering and  Management.md</guid><dc:creator><![CDATA[Aridlvory]]></dc:creator><pubDate>Sat, 20 Jul 2024 07:03:55 GMT</pubDate></item><item><title><![CDATA[MODULE 1 (7 Hours)]]></title><description><![CDATA[ 
  <br><br>
 <br>Properties of Fluid: Definition of fluid, properties of fluids-density, specific weight, viscosity- Newton’s law of viscosity, vapor pressure.
 <br>Physical properties of fluids -Problems
@@ -464,15 +464,15 @@ Hill, 2008
 <br>Performance characteristics, specific Speed- Problems 1
 <br>Reciprocating pump – working principle. (Detailed study of reciprocating pump to be handled in the Laboratory).
 <br><br>
-<br>Fluid Mechanics and Hydraulic Machines by R.K. Bansal, Laxmi Prakashan
-<br>Fluid Mechanics and Hydraulic Machines by R.K. Rajput, S.Chand &amp; Co.
+<br><a data-tooltip-position="top" aria-label="https://drive.google.com/file/d/1ZrtxSdI04Z4bsyJYv2ax7rIxYMmBYHGK/view?usp=sharing" rel="noopener" class="external-link" href="https://drive.google.com/file/d/1ZrtxSdI04Z4bsyJYv2ax7rIxYMmBYHGK/view?usp=sharing" target="_blank">Fluid Mechanics and Hydraulic Machines by R.K. Bansal, Laxmi Prakashan</a>
+<br><a data-tooltip-position="top" aria-label="https://drive.google.com/file/d/1KtuU39UAng7dZosp66n-p2XKep1ikII0/view?usp=sharing" rel="noopener" class="external-link" href="https://drive.google.com/file/d/1KtuU39UAng7dZosp66n-p2XKep1ikII0/view?usp=sharing" target="_blank">Fluid Mechanics and Hydraulic Machines by R.K. Rajput, S.Chand &amp; Co.</a>
 <br>Fluid Mechanics and Fluid Power Engineering by D.S. Kumar, S. K. Kataria &amp; Sons
 <br><br>
 <br>Mechanics of fluids by Shames, I.H,Tata McGraw Hill Publications.
-<br>Fluid Mechanics by Frank.M. White, McGraw Hill Education.
-<br>Mechanics of Fluids by Shames, McGraw Hill Education.
+<br><a data-tooltip-position="top" aria-label="https://drive.google.com/file/d/13m7q1X1oQun6sb0QDwOLV0ZLf7iSe2VE/view?usp=sharing" rel="noopener" class="external-link" href="https://drive.google.com/file/d/13m7q1X1oQun6sb0QDwOLV0ZLf7iSe2VE/view?usp=sharing" target="_blank">Fluid Mechanics by Frank.M. White, McGraw Hill Education.</a>
+<br><a data-tooltip-position="top" aria-label="https://drive.google.com/file/d/1qQtjLNW424mmmviSkCq_lmX52hvL7nZo/view?usp=sharing" rel="noopener" class="external-link" href="https://drive.google.com/file/d/1qQtjLNW424mmmviSkCq_lmX52hvL7nZo/view?usp=sharing" target="_blank">Mechanics of Fluids by Shames, McGraw Hill Education.</a>
 <br>Hydraulic Machines by Jagadish Lal, Metropolitan book company pvt. Ltd.
-]]></description><link>s3\syllabus\23mep304-fluid-mechanics-and-hydraulic-machines.html</link><guid isPermaLink="false">S3/Syllabus/23MEP304 - Fluid Mechanics And Hydraulic Machines.md</guid><pubDate>Thu, 18 Jul 2024 14:47:28 GMT</pubDate></item><item><title><![CDATA[MODULE 1 Review of Thermodynamics (9 Hours)]]></title><description><![CDATA[ 
+]]></description><link>s3\syllabus\23mep304-fluid-mechanics-and-hydraulic-machines.html</link><guid isPermaLink="false">S3/Syllabus/23MEP304 - Fluid Mechanics And Hydraulic Machines.md</guid><dc:creator><![CDATA[Aridlvory]]></dc:creator><pubDate>Sun, 21 Jul 2024 09:42:54 GMT</pubDate></item><item><title><![CDATA[MODULE 1 Review of Thermodynamics (9 Hours)]]></title><description><![CDATA[ 
  <br><br>
 <br>Introduction and Review of Thermodynamics - Definition of Thermodynamics, First Law of Thermodynamics, Limitations of First Law of Thermodynamics and Introduction to, Second Law, Engineering Applications of Steady Flow Energy Equation
 <br>Performance analysis of vapor power cycle. - Introduction to Steam engineering., Rankine Cycle
@@ -516,16 +516,36 @@ Hill, 2008
 <br><br>
 <br><a data-tooltip-position="top" aria-label="https://drive.google.com/file/d/1iD1WBrHVLyfHod4G6pKVpo3fd0fM61d3/view?usp=sharing" rel="noopener" class="external-link" href="https://drive.google.com/file/d/1iD1WBrHVLyfHod4G6pKVpo3fd0fM61d3/view?usp=sharing" target="_blank">P. K. Nag, Engineering Thermodynamics, McGraw Hill, 2013</a>
 <br>E. Rathakrishnan Fundamentals of Engineering Thermodynamics, PHI, 2005
-<br>Y. A. Cengel and M. A. Boles, Thermodynamics an Engineering Approach, McGraw Hill, 2011
+<br><a data-tooltip-position="top" aria-label="https://drive.google.com/file/d/1xY9lSVD2iCqgG-66uDcumNN3ZTVuUckr/view?usp=sharing" rel="noopener" class="external-link" href="https://drive.google.com/file/d/1xY9lSVD2iCqgG-66uDcumNN3ZTVuUckr/view?usp=sharing" target="_blank">Y. A. Cengel and M. A. Boles, Thermodynamics an Engineering Approach, McGraw Hill, 2011</a>
 <br>I.C. Engines / V. Ganesan / Mc Graw Hill
-<br>Thermal Engineering / Mahesh M Rathore / Mc Graw Hill
+<br><a data-tooltip-position="top" aria-label="https://drive.google.com/file/d/1sg3jqPwzMCdO7F8jh5xa1zljfcrjtYSv/view?usp=sharing" rel="noopener" class="external-link" href="https://drive.google.com/file/d/1sg3jqPwzMCdO7F8jh5xa1zljfcrjtYSv/view?usp=sharing" target="_blank">Thermal Engineering / Mahesh M Rathore / Mc Graw Hill</a>
 <br><br>
-<br>Applied Thermodynamics for Engineering Technologists / Eastop / Pearson
+<br><a data-tooltip-position="top" aria-label="https://drive.google.com/file/d/1J8xgRI08k6slK1oMtWJtcC8j-FewT7Vg/view?usp=sharing" rel="noopener" class="external-link" href="https://drive.google.com/file/d/1J8xgRI08k6slK1oMtWJtcC8j-FewT7Vg/view?usp=sharing" target="_blank">Applied Thermodynamics for Engineering Technologists / Eastop / Pearson</a>
 <br>Moran J., Shapiro N. M., Fundamentals of Engineering Thermodynamics, Wiley, 2006
-<br>R. E. Sonntag and C. Borgnakke, Fundamentals of Thermodynamics, Wiley, 2009
+<br><a data-tooltip-position="top" aria-label="https://drive.google.com/file/d/12DGb2hoIY7uACEljnZbY5lPY3oMFMDHm/view?usp=sharing" rel="noopener" class="external-link" href="https://drive.google.com/file/d/12DGb2hoIY7uACEljnZbY5lPY3oMFMDHm/view?usp=sharing" target="_blank">R. E. Sonntag and C. Borgnakke, Fundamentals of Thermodynamics, Wiley, 2009</a>
 <br>Holman J. P. Thermodynamics, McGraw Hill, 2004
 <br>M. Achuthan, Engineering Thermodynamics, PHI, 2004
 <br>Fundamentals of Classical Thermodynamics / Vanwylen G.J., Sonntag R.E. / Wiley Eastern
-<br>Internal Combustion Engines Fundamentals – John B. Heywood – McGraw Hill Ed.
-]]></description><link>s3\syllabus\23met305-applied-thermodynamics.html</link><guid isPermaLink="false">S3/Syllabus/23MET305 - APPLIED THERMODYNAMICS.md</guid><pubDate>Sat, 20 Jul 2024 09:43:46 GMT</pubDate></item><item><title><![CDATA[S3 Syllabus]]></title><description><![CDATA[ 
- <br>]]></description><link>s3-syllabus.html</link><guid isPermaLink="false">S3 Syllabus.md</guid><pubDate>Sat, 20 Jul 2024 07:33:16 GMT</pubDate></item></channel></rss>
+<br><a data-tooltip-position="top" aria-label="https://drive.google.com/file/d/1x5BlCSz38-XQll-iMGgSgYXg7RvKarwF/view?usp=sharing" rel="noopener" class="external-link" href="https://drive.google.com/file/d/1x5BlCSz38-XQll-iMGgSgYXg7RvKarwF/view?usp=sharing" target="_blank">Internal Combustion Engines Fundamentals – John B. Heywood – McGraw Hill Ed.</a>
+]]></description><link>s3\syllabus\23met305-applied-thermodynamics.html</link><guid isPermaLink="false">S3/Syllabus/23MET305 - APPLIED THERMODYNAMICS.md</guid><dc:creator><![CDATA[Aridlvory]]></dc:creator><pubDate>Sun, 21 Jul 2024 09:42:48 GMT</pubDate></item><item><title><![CDATA[LAB Periods]]></title><description><![CDATA[ 
+ <br><br><br><a data-href="23MEM309 - Mechanics of Materials" href="s3\syllabus\23mem309-mechanics-of-materials.html" class="internal-link" target="_self" rel="noopener">23MEM309 - Mechanics of Materials</a><br>
+<a data-href="23MEM310 - Fluid Mechanics &amp; Machinery" href="s3\syllabus\23mem310-fluid-mechanics-&amp;-machinery.html" class="internal-link" target="_self" rel="noopener">23MEM310 - Fluid Mechanics &amp; Machinery</a><br>
+<a data-href="23MEM311 - Material Science and Technology" href="s3\syllabus\23mem311-material-science-and-technology.html" class="internal-link" target="_self" rel="noopener">23MEM311 - Material Science and Technology</a><br>
+<a data-href="23MEM312 - Industrial Engineering and  Management" href="s3\syllabus\23mem312-industrial-engineering-and-management.html" class="internal-link" target="_self" rel="noopener">23MEM312 - Industrial Engineering and  Management</a><br><a data-href="Text Books" href="s3\text-books.html" class="internal-link" target="_self" rel="noopener">Text Books</a>]]></description><link>s3\s3-syllabus.html</link><guid isPermaLink="false">S3/S3 Syllabus.md</guid><dc:creator><![CDATA[Aridlvory]]></dc:creator><pubDate>Sat, 20 Jul 2024 14:17:48 GMT</pubDate></item><item><title><![CDATA[Text Books]]></title><description><![CDATA[ 
+ <br>
+<br><a data-tooltip-position="top" aria-label="23MAT301 - PROBABILITY DISTRIBUTIONS AND COMPLEX ANALYSIS > Text books" data-href="23MAT301 - PROBABILITY DISTRIBUTIONS AND COMPLEX ANALYSIS#Text books" href="s3\syllabus\23mat301-probability-distributions-and-complex-analysis.html#Text_books" class="internal-link" target="_self" rel="noopener">PROBABILITY DISTRIBUTIONS AND COMPLEX ANALYSIS</a>
+<br><a data-tooltip-position="top" aria-label="23EST302 - Sustainable Engineering > Text books" data-href="23EST302 - Sustainable Engineering#Text books" href="s3\syllabus\23est302-sustainable-engineering.html#Text_books" class="internal-link" target="_self" rel="noopener">Sustainable Engineering</a>
+<br><a data-tooltip-position="top" aria-label="23MEJ303 - Engineering Materials &amp; Applications > Reference books" data-href="23MEJ303 - Engineering Materials &amp; Applications#Reference books" href="s3\syllabus\23mej303-engineering-materials-&amp;-applications.html#Reference_books" class="internal-link" target="_self" rel="noopener">Engineering Materials &amp; Applications</a>
+<br><a data-tooltip-position="top" aria-label="23MEP304 - Fluid Mechanics And Hydraulic Machines > Text books" data-href="23MEP304 - Fluid Mechanics And Hydraulic Machines#Text books" href="s3\syllabus\23mep304-fluid-mechanics-and-hydraulic-machines.html#Text_books" class="internal-link" target="_self" rel="noopener">Fluid Mechanics And Hydraulic Machines</a>
+<br><a data-tooltip-position="top" aria-label="23MET305 - APPLIED THERMODYNAMICS > Text books" data-href="23MET305 - APPLIED THERMODYNAMICS#Text books" href="s3\syllabus\23met305-applied-thermodynamics.html#Text_books" class="internal-link" target="_self" rel="noopener">APPLIED THERMODYNAMICS</a>
+<br><a data-tooltip-position="top" aria-label="23HUT306 - HUMANITIES – I ENGINEERING ECONOMICS > Text books" data-href="23HUT306 - HUMANITIES – I ENGINEERING ECONOMICS#Text books" href="s3\syllabus\23hut306-humanities-–-i-engineering-economics.html#Text_books" class="internal-link" target="_self" rel="noopener">HUMANITIES – I ENGINEERING ECONOMICS</a>
+<br><a data-tooltip-position="top" aria-label="23EST309 - BASIC ENGINEERING MECHANICS > Text Books" data-href="23EST309 - BASIC ENGINEERING MECHANICS#Text Books" href="s3\syllabus\23est309-basic-engineering-mechanics.html#Text_Books" class="internal-link" target="_self" rel="noopener">BASIC ENGINEERING MECHANICS</a>
+<br><a data-tooltip-position="top" aria-label="23MEM309 - Mechanics of Materials > Text books" data-href="23MEM309 - Mechanics of Materials#Text books" href="s3\syllabus\23mem309-mechanics-of-materials.html#Text_books" class="internal-link" target="_self" rel="noopener">Mechanics of Materials</a>
+<br><a data-tooltip-position="top" aria-label="23MEM310 - Fluid Mechanics &amp; Machinery > Text books" data-href="23MEM310 - Fluid Mechanics &amp; Machinery#Text books" href="s3\syllabus\23mem310-fluid-mechanics-&amp;-machinery.html#Text_books" class="internal-link" target="_self" rel="noopener">Fluid Mechanics &amp; Machinery</a>
+<br><a data-tooltip-position="top" aria-label="23MEM311 - Material Science and Technology > Text books" data-href="23MEM311 - Material Science and Technology#Text books" href="s3\syllabus\23mem311-material-science-and-technology.html#Text_books" class="internal-link" target="_self" rel="noopener">Material Science and Technology</a>
+<br><a data-tooltip-position="top" aria-label="23MEM312 - Industrial Engineering and  Management > Text books" data-href="23MEM312 - Industrial Engineering and  Management#Text books" href="s3\syllabus\23mem312-industrial-engineering-and-management.html#Text_books" class="internal-link" target="_self" rel="noopener">Industrial Engineering and Management</a>
+]]></description><link>s3\text-books.html</link><guid isPermaLink="false">S3/Text Books.md</guid><dc:creator><![CDATA[Aridlvory]]></dc:creator><pubDate>Sat, 20 Jul 2024 14:46:10 GMT</pubDate></item><item><title><![CDATA[index]]></title><description><![CDATA[ 
+ <br>This is a part of a hobby project done by <a data-tooltip-position="top" aria-label="https://github.com/Aridlvory" rel="noopener" class="external-link" href="https://github.com/Aridlvory" target="_blank">Aridlvory</a> <br>This is a website which hosts my notes and stuff<br>
+i created this by using Obsidian to HTML conversion extension and using GitHub Pages<br>if you want to contribute to the HTML Pages you can contribute <a data-tooltip-position="top" aria-label="https://github.com/Aridlvory/aridlvory.github.io" rel="noopener" class="external-link" href="https://github.com/Aridlvory/aridlvory.github.io" target="_blank">here</a><br>
+and if you wish to edit my obsidian notes you can contribute to it through this <a data-tooltip-position="top" aria-label="https://github.com/Aridlvory/Obsidian-Notes" rel="noopener" class="external-link" href="https://github.com/Aridlvory/Obsidian-Notes" target="_blank">repository</a><br>The Website starts <a data-tooltip-position="top" aria-label="S3 Syllabus" data-href="S3 Syllabus" href="s3\s3-syllabus.html" class="internal-link" target="_self" rel="noopener">Here</a><br>And I don't know for how long i can upload those notes so if u need any missing notes contact me (If you don't know how to contact me then you can't)<br>The progress of this website depends on contents taught in Mechanical 2023-27 A Batch Students<br>The resources embedded in this websites are locked on TKM Subdomain<br>
+Textbook section is incomplete due to Poor Server Upload speed which is a Big Pain]]></description><link>index.html</link><guid isPermaLink="false">index.md</guid><dc:creator><![CDATA[Aridlvory]]></dc:creator><pubDate>Sun, 21 Jul 2024 09:53:44 GMT</pubDate></item></channel></rss>
